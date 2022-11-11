@@ -1,8 +1,8 @@
 # Termo
 
 This repository contains the code for a simpler version for the globally famous game Termo, or Wordle.
-Basically, you must guess the right randomly generated word on a limited number of tries. The game helps you by giving information about the relationship between the letters you tried
-and the letters of the right word, like position or presence in it.
+Basically, you must guess the right randomly generated word on a limited number of tries. The game helps you by giving information about the relationship between the tried letters
+and the right word's letters, like position or presence in it.
 
 
 ## Original games
@@ -12,4 +12,4 @@ and the letters of the right word, like position or presence in it.
 ## Motivation
 
 This was actually built for a demonstration of wich skills the students could learn by
-joining IMEJúnior, a junior enterprise with services of web and app development.
+joining IMEJúnior, IME's Junior Enterprise, wich offers App Development services.
